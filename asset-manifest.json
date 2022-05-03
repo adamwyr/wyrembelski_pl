@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wyrembelski_pl/static/css/main.8b726ece.css",
+    "main.js": "/wyrembelski_pl/static/js/main.f97d6334.js",
+    "index.html": "/wyrembelski_pl/index.html",
+    "main.8b726ece.css.map": "/wyrembelski_pl/static/css/main.8b726ece.css.map",
+    "main.f97d6334.js.map": "/wyrembelski_pl/static/js/main.f97d6334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b726ece.css",
+    "static/js/main.f97d6334.js"
+  ]
+}
