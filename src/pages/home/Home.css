@@ -1,0 +1,29 @@
+.home-page {
+    display: flex;
+}
+
+.home-page__header {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-page__header > .header {
+    padding: 2rem;
+}
+
+.header > span {
+    display: block;
+}
+
+.header > .header--first {
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+.header > .header--second {
+    font-size: 1.2rem;
+    text-align: center;
+}
